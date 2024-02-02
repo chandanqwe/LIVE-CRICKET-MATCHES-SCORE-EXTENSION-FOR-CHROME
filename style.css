@@ -1,0 +1,47 @@
+body{
+    min-width: 300px;
+ 
+        background-image: url("cricket.jpg");
+        background-color: #d12323;
+       
+
+}
+
+body {
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    color: #333;
+  }
+  .logo {
+    display: block;
+    margin: 0 auto;
+    width: 100px;
+    padding: 10px;
+  }
+  
+ 
+  p {
+    font-size: 16px;
+    font-weight: bold;  
+  }
+  
+ 
+  h2 {
+    font-size: 18px;
+    margin-top: 10px;
+  }
+  
+ 
+  #matchesList {
+    list-style: none;
+    padding: 0;
+  }
+  
+  #matchesList li {
+    background-color: #eee;
+    padding: 5px;
+    margin-bottom: 5px;
+    border-radius: 3px;
+  }
+  
+ 

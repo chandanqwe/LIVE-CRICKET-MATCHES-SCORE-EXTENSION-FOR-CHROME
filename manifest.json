@@ -1,0 +1,16 @@
+{
+    "name": "CRIK SCORE",
+    "version": "1.0.0",
+    "description": "Best cricket ectension",
+    "manifest_version": 3,
+    "author": "Chandan Yadav",
+
+    
+    "action": {
+      "default_popup": "INDEX.HTML",
+      
+      "default_title": "welcome to my extension"
+    }
+
+    
+  }
